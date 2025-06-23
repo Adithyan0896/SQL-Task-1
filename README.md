@@ -1,2 +1,0 @@
-# SQL-Task-1
-Library Management System
